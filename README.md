@@ -13,3 +13,9 @@ The marketing agency wanted their codebase to follow acessibility standards, and
 - **Title element:** now has a more desciptive title including the name of the agency and what the agency does, which optimizes the website for search engines. 
 - **Link function:** the link for "Search Enging Optimisation" was not functioning properly, which has been fixed. 
 - **CSS efficiency:** multiple CSS elements with the same function have been consolidated into singular elements. The CSS elements have also been organised to follow the structure of the HTML file.
+
+#### GitHub Pages:
+
+https://emlarko.github.io/el2-challenge/
+
+![Screenshot](/screenshot/el2-challenge-screenshot.png?raw=true "Screenshot")
